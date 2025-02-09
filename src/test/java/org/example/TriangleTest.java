@@ -12,7 +12,7 @@ public class TriangleTest extends TestCase {
 
     @Test
     public void testGetArea() {
-        assertEquals(6.0,triangle.getArea());
+        assertEquals(6.0,triangle.getArea());//changes
     }
 
     @Test
